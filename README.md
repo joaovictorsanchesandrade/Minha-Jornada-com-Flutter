@@ -57,8 +57,11 @@ Bem-vindo ao meu repositório de estudos sobre **Dart e Flutter**! 🚀 Aqui, vo
 ## 📌 Recursos Úteis
 
 🔗 [Documentação Oficial do Dart](https://dart.dev)
+
 🔗 [Documentação Oficial do Flutter](https://flutter.dev)
+
 🔗 [Pub.dev - Pacotes Flutter](https://pub.dev)
+
 🔗 [Flutter Awesome - Repositório de Pacotes e Projetos](https://flutterawesome.com)
 
 Caso tenha alguma sugestão ou dúvida, sinta-se à vontade para abrir uma issue ou entrar em contato! 😃🚀
